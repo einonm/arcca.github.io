@@ -52,7 +52,7 @@ We use a Microsoft Teams method to delivery the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Mon 22nd & <br />Tue 23th, April 2024 | 09:00-13:00 | 2 | Link TBA |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Mon 22nd & <br />Tue 23rd, April 2024 | 09:00-13:00 | 2 | Link TBA |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
