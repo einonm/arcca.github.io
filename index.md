@@ -36,7 +36,7 @@ We use a Microsoft Teams method to delivery the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 1st Feb 2024 | 10:00-12:00 | 1 | Link TBA |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 1st Feb 2024 | 10:00-12:00 | 1 | [Register](https://events.teams.microsoft.com/event/bc26c792-7f8d-45a5-b174-e8ac00009c03@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Mon 5th & Tue 6th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 12th & Tue 13th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 19th & Tue 20th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
