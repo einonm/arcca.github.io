@@ -38,9 +38,9 @@ We use a Microsoft Teams method to delivery the online sessions.
 |-------|-------------|------|------|:------------------:|-------------------|
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 1st Feb 2024 | 10:00-12:00 | 1 | [Register](https://events.teams.microsoft.com/event/bc26c792-7f8d-45a5-b174-e8ac00009c03@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Mon 5th & Tue 6th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/e6771e73-2717-449e-8994-89e6891a4b20@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 12th & Tue 13th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 19th & Tue 20th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Mon 26th & Tue 27th, Feb 2024 | 10:00-12:00 | 2 | Link TBA |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 12th & Tue 13th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/cbfa9f1c-62c7-412d-9a63-f8c95b32b7f8@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 19th & Tue 20th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/115764c9-7521-428a-8589-f76958a0be21@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Mon 26th & Tue 27th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/d14b2fe7-82d0-49e4-8ef1-c064ec142293@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Mon 4th & Tue 5th, March 2024 | 10:00-12:00 | 2 | Link TBA |
 | *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Mon 11th & Tue 12th, March 2024 | 10:00-12:00 | 2 | Link TBA |
 | *Advanced Python* | Learn additional tools to improve your Python scripts | Mon 18th & Tue 19th, March 2024 | 10:00-12:00 | 2 | Link TBA |
