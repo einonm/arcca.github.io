@@ -30,9 +30,9 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 The timetable for Spring 2024 is now available! **Final registration links will be announced as soon as possible**.
 
-To attend the ARCCA sessions please refer to details below. If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.
+To attend the ARCCA sessions please refer to details below. If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date.  Please use your University email address to register.
 
-We use a Microsoft Teams method to delivery the online sessions.
+We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
