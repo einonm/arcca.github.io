@@ -41,7 +41,7 @@ We use a Microsoft Teams method to deliver the online sessions.
 | *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | TBC | TBC | TBC | Link TBA |
 | *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | TBC | TBC | TBC | Link TBA  |
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | TBC | TBC | TBC | Link TBA |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBC | TBC | 2 | Link TBA  |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBC | TBC | TBC | Link TBA  |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | TBC | TBC | TBC | Link TBA  |
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | TBC | TBC | TBC | Link TBA  |
 | *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | TBC | TBC| TBC | Link TBA  |
