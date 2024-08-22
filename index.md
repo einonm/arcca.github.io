@@ -38,23 +38,23 @@ We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 1st Feb 2024 | 10:00-12:00 | 1 | [Register](https://events.teams.microsoft.com/event/bc26c792-7f8d-45a5-b174-e8ac00009c03@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Mon 5th & Tue 6th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/e6771e73-2717-449e-8994-89e6891a4b20@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Mon 12th & Tue 13th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/cbfa9f1c-62c7-412d-9a63-f8c95b32b7f8@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Mon 19th & Tue 20th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/115764c9-7521-428a-8589-f76958a0be21@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Mon 26th & Tue 27th, Feb 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/d14b2fe7-82d0-49e4-8ef1-c064ec142293@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Mon 4th & Tue 5th, March 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/651687a6-08ce-4972-9da6-2e7e2de0fe4a@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Mon 11th & Tue 12th, March 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/7cddfe5a-b1ed-4387-ab8c-94e72b5a80c7@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Advanced Python* | Learn additional tools to improve your Python scripts | Mon 18th & Tue 19th, March 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/e6a1b205-55f5-40f9-baf2-16f1ac0026c8@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Mon 15th & Tue 16th, April 2024 | 10:00-12:00 | 2 | [Register](https://events.teams.microsoft.com/event/57191bb4-b73f-4661-8ca9-4c6d05f276a3@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | TBA | TBA | 2 | Link TBA |
-| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | TBA | TBA | 2 | Link TBA |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | TBC | TBC | TBC | Link TBA |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | TBC | TBC | TBC | Link TBA  |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | TBC | TBC | TBC | Link TBA |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | TBC | TBC | 2 | Link TBA  |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | TBC | TBC | TBC | Link TBA  |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | TBC | TBC | TBC | Link TBA  |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | TBC | TBC| TBC | Link TBA  |
+| *Advanced Python* | Learn additional tools to improve your Python scripts | TBC | TBC | TBC | Link TBA |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | TBC | TBC | TBC | Link TBA  |
+| *Introduction to containers and Singularity* | Discover how containers can help your workflow. | TBA | TBA | TBC | Link TBA |
+| *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | TBA | TBA | TBC | Link TBA |
 
 **Special event**
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Mon 22nd & <br />Tue 23rd, April 2024 | 09:00-13:00 | 2 | [Register](https://events.teams.microsoft.com/event/9b92cc77-be49-4997-90e6-4b01af7b65da@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | TBC | TBC | TBC | Link TBA |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
