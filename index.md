@@ -28,7 +28,7 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Register for future courses
 
-The timetable for Spring 2024 is now available!
+The timetable for Autumn 2024 is now available!
 
 To attend the ARCCA sessions please refer to details below. If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date. 
 
