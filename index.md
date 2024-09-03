@@ -43,7 +43,6 @@ We use a Microsoft Teams method to deliver the online sessions.
 | *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Thu 17th October 2024 | 1:00 pm – 5:00 pm | 1 | Link TBA |
 | *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Thu 24th October 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
 | *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Thu 7th November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
-
 | *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 14th November 2024 | 1:00 pm – 5:00 pm | 1 | Link TBA  |
 | *Advanced Python* | Learn additional tools to improve your Python scripts | Thu 21st November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA |
 | *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 28th November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
