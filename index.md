@@ -38,15 +38,15 @@ We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 3rd October 2024 | 1:00pm – 5:00pm  | 1 | Link TBA |
-| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Thu 10th October 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
-| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Thu 17th October 2024 | 1:00 pm – 5:00 pm | 1 | Link TBA |
-| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Thu 24th October 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
-| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Thu 7th November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
-| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 14th November 2024 | 1:00 pm – 5:00 pm | 1 | Link TBA  |
-| *Advanced Python* | Learn additional tools to improve your Python scripts | Thu 21st November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA |
-| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 28th November 2024 | 1:00 pm – 5:00 pm  | 1 | Link TBA  |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Thu 12th December 2024| 1:00 pm – 5:00 pm  | 1 | Link TBA  |
+| *Advanced Research Computing at Cardiff University* | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 3rd October 2024 | 1:00pm – 5:00pm  | 1 | [Link](https://events.teams.microsoft.com/event/0f50cf30-020a-4c40-aac8-bb4d305dcd3a@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *An Introduction to Linux with Command Line (& Windows)* | Learn how to use the Linux command line. | Thu 10th October 2024 | 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/38ecf85c-12b4-42d6-bfb5-7e5ba43f93a4@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
+| *An Introduction to Linux Shell Scripting* | Further your knowledge with Linux shell scripting. | Thu 17th October 2024 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/ef0670af-5cde-473c-bb82-47a3e452850f@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Supercomputing for Beginners* | Learn to run jobs on the University supercomputer. | Thu 24th October 2024 | 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/d5e006c4-37da-4910-ba6f-b978ba24dfd6@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
+| *Slurm – Advanced Topics* | Find out further information on using Slurm and the supercomputer. | Thu 7th November 2024 | 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/a5a5c998-0011-4fd3-a467-3c5cd151faa6@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
+| *Introduction to Python* | Learn to use Python and migrate your code to our supercomputer. | Thu 14th November 2024 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/29a0230f-7aed-40e4-ac7a-88a9a2c642f7@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
+| *Advanced Python* | Learn additional tools to improve your Python scripts | Thu 21st November 2024 | 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/cc4ecc2c-b35b-4d7a-a408-66075a74cd4a@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| *Introduction to Machine Learning Applications* | Find out how to run machine learning applications on the supercomputer. | Thu 28th November 2024 | 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/a11cf71b-b3c1-4416-992f-137490e08441@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code. | Thu 12th December 2024| 1:00 pm – 5:00 pm  | 1 | [Link](https://events.teams.microsoft.com/event/c15d1b37-6343-4507-aeeb-f378b2000937@bdb74b30-9568-4856-bdbf-06759778fcbc)  |
 | *Introduction to containers and Singularity* | Discover how containers can help your workflow. | TBA | TBA | TBC | Link TBA |
 | *Introduction to workflow tool NextFlow* | Find out how to manage workflows within a the NextFlow framework. | TBA | TBA | TBC | Link TBA |
 
@@ -54,7 +54,7 @@ We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Thu 5th December 2024 & Fri 6th December  | 9:00 am – 1:00 pm | 2 | Link TBA |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Thu 5th December 2024 & Fri 6th December  | 9:00 am – 1:00 pm | 2 | [Link](https://events.teams.microsoft.com/event/eb9f7cb4-710a-421d-8e7b-424bcd76f0f0@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
